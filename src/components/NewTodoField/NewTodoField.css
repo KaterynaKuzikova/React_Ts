@@ -1,0 +1,10 @@
+.todoField {
+  background: #d1cca0;
+  padding: 5px;
+  font-size: 25px;
+  margin-top: 25px;
+  width: 80%;
+  table-layout: fixed;
+  text-align: start;
+  align-items: center;
+}
